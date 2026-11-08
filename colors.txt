@@ -1,0 +1,2 @@
+Old Prism Colors: #0077d6
+New Prism Colors: #0088F7
